@@ -1,0 +1,1 @@
+editText=(EditText)findViewById(R.id.t);///code
